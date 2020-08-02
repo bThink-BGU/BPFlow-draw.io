@@ -2,10 +2,10 @@
 
 Website: [FlowBP](https://atiyah1.wixsite.com/flow-bp)
 
-GitHub-Pages: https://bthink-bgu.github.io/BPFlow-draw.io//editor/index.html
+GitHub-Pages: https://bthink-bgu.github.io/BPFlow-draw.io/editor/index.html
 
 Examples:
 
-1) [Hot-Cold Program](https://eilonben.github.io/FlowBP/Examples/HotCold.html)
+1) [Hot-Cold Program](https://bthink-bgu.github.io/BPFlow-draw.io/Examples/HotCold.html)
 
-2) [TicTacToe Program](https://eilonben.github.io/FlowBP/Examples/TicTacToe.html)
+2) [TicTacToe Program](https://bthink-bgu.github.io/BPFlow-draw.io/Examples/TicTacToe.html)

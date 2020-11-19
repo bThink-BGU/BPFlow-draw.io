@@ -1,8 +1,8 @@
 # FlowBP
 
-Website: [FlowBP](https://atiyah1.wixsite.com/flow-bp)
+Student's project website: [FlowBP](https://atiyah1.wixsite.com/flow-bp)
 
-GitHub-Pages: https://bthink-bgu.github.io/BPFlow-draw.io/editor/index.html
+The BPFlow editor: https://bthink-bgu.github.io/BPFlow-draw.io/editor/index.html
 
 Examples:
 
